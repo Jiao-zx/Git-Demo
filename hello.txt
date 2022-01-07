@@ -2,4 +2,4 @@ version 2
 hello git!
 hello git! master test
 hello git! hot-fix test
-remote fix
+remote fix!
